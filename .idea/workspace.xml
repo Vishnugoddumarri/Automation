@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bf16d38-e374-4028-af0b-c1796bde161a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwagLabs_Advanced.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/CheckOutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/CheckOutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LogOutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LogOutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ProductNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/ProductNavigation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testSetup/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testSetup/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/BaseSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/BaseSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/Listeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/Listeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l3LQqwPN0RJmTWASy6tmAQRgqv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SampleCucumber_Project" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vishnu\IdeaProjects\SwagLabs_Advanced" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/vishnu/IdeaProjects/SwagLabs_Advanced/testng.xml">
+    <configuration name="C:/Users/vishnu/IdeaProjects/SwagLabs_Advanced/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SwagLabs_Advanced" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SwagLabs_Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testSetup" />
+      <option name="MAIN_CLASS_NAME" value="testSetup.TestClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/vishnu/IdeaProjects/SwagLabs_Advanced/testng.xml" />
+        <item itemvalue="TestNG.TestClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bf16d38-e374-4028-af0b-c1796bde161a" name="Default Changelist" comment="" />
+      <created>1606820817620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606820817620</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1606887859312">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606887859312" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606840978613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606840978613" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1607060427115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607060427115" />
+    <state width="1322" height="94" key="GridCell.Tab.0.bottom" timestamp="1607012642462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="94" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607012642462" />
+    <state width="1322" height="94" key="GridCell.Tab.0.center" timestamp="1607012642462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="94" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607012642462" />
+    <state width="1322" height="94" key="GridCell.Tab.0.left" timestamp="1607012642462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="94" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607012642462" />
+    <state width="1322" height="94" key="GridCell.Tab.0.right" timestamp="1607012642462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="94" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607012642462" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1606838807743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1606838807743" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1607061493671">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607061493671" />
+    <state x="65" y="24" key="new project wizard" timestamp="1607059493559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1607059493559" />
+    <state x="383" y="110" key="refactoring.ChangeSignatureDialog" timestamp="1606892015844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="383" y="110" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1606892015844" />
+  </component>
+</project>
