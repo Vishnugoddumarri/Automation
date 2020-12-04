@@ -40,9 +40,5 @@ public class BaseSetup {
         driver.manage().window().maximize();
 
     }
-    public void failed(String methodName){
-        File source= ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-        FileUtils.copyFile(source, new File("C:\\Users\\vishnu\\IdeaProjects\\SwagLabs_Advanced\\screenshots"+methodName+"_"+".jpg"));
-        System.out.println("Screenshot taken");
-    }
+
 }
